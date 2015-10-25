@@ -1,6 +1,6 @@
 FROM scratch
 
-ADD mersdk-1510.tar.xz entrypoint.sh /
+ADD mersdk.tar.xz entrypoint.sh /
 
 # Grab gosu for easy step-down from root
 RUN curl -L -o /usr/local/bin/gosu "https://github.com/tianon/gosu/releases/download/1.4/gosu-amd64" \

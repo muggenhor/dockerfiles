@@ -1,2 +1,6 @@
 *.swp
 Dockerfile
+SailfishOSSDK-linux-64-offline*
+mersdk.disk
+mersdk.tar.xz
+mersdk.vdi

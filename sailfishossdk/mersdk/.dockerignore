@@ -2,3 +2,7 @@
 .dockerignore
 .gitignore
 Dockerfile
+SailfishOSSDK-linux-64-offline*
+build-mersdk.sh
+mersdk.disk
+mersdk.vdi
